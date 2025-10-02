@@ -8,38 +8,20 @@ redirect_from:
 ---
 
 {% include base_path %}
+For detailed CV, click [here]({{ "/files/CV-Jiaxin Guo.pdf" | relative_url }})
+
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Sep.2021 – Jun.2026 (expected): Tsinghua University, Beijing, China
+* Feb.2024 – Jul.2024: Swiss Federal Institute of Technology in Lausanne (EPFL), Lausanne, Switzerland
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct.2024 – Present: Research Intern, MSRA, Beijing, mentoered by [Li Dong](https://dong.li/)
+* Jul.2024 – Feb.2025: Research Intern, H. Milton Stewart School of Industrial and Systems Engineering, Gatech, mentored by [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
+* Jun.2022 – Feb.2024: Research Assistant, Center for Brain Inspired Computing Research, Tsinghua University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,18 +29,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
