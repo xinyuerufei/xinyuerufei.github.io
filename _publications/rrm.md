@@ -6,7 +6,7 @@ permalink: /publication/2025-reward-reasoning-model
 excerpt: "Reward Reasoning Models (RRMs) perform chain-of-thought reasoning before predicting rewards to improve reward accuracy."
 date: 2025-05-01
 venue: "NeurIPS, Poster"
-paperurl: "https://arxiv.org/pdf/2505.14674"
+paperurl: "https://openreview.net/pdf?id=V8Kbz7l2cr"
 citation: '<b>Jiaxin Guo</b>*, Zewen Chi*, Li Dong*, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei. (2025). "Reward Reasoning Model." <i>NeurIPS 2025</i>, Poster.
 '
 ---
