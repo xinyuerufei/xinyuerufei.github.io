@@ -14,8 +14,8 @@ I like training models. My ultimate goal is to explore and push the upper limits
 
 ## News 🎉
 
-- [*AdaSPEC: Selective Knowledge Distillation for Efficient Speculative Decoders*](https://neurips.cc/virtual/2025/poster/115055) has been accepted to NeurIPS 2025 as a **Spotlight (top 3.5%)**. [video](https://recorder-v3.slideslive.com/?share=106884&s=29c2c80b-1b33-44c5-b11e-8c2352804c92)
-- [*Reward Reasoning Models*](https://neurips.cc/virtual/2025/poster/117713) has been accepted to NeurIPS 2025 as a **Poster**. [video](https://recorder-v3.slideslive.com/?share=104358&s=15501d85-0897-4206-b5ba-011532799f5d) 
+- [*AdaSPEC: Selective Knowledge Distillation for Efficient Speculative Decoders*](https://neurips.cc/virtual/2025/poster/115055) has been accepted to NeurIPS 2025 as a **Spotlight (top 3.5%)**. [pdf](https://openreview.net/pdf?id=zNLlglSOwD) [slides](https://neurips.cc/media/neurips-2025/Slides/115055.pdf) [video](https://recorder-v3.slideslive.com/?share=106884&s=29c2c80b-1b33-44c5-b11e-8c2352804c92)
+- [*Reward Reasoning Models*](https://neurips.cc/virtual/2025/poster/117713) has been accepted to NeurIPS 2025 as a **Poster**. [pdf](https://openreview.net/pdf?id=V8Kbz7l2cr) [slides](https://neurips.cc/media/neurips-2025/Slides/117713_dnynF7C.pdf) [video](https://recorder-v3.slideslive.com/?share=104358&s=15501d85-0897-4206-b5ba-011532799f5d) 
 
 ## Honors 🏅
 
