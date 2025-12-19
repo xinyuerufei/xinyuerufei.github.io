@@ -11,4 +11,4 @@ citation: '<b>Jiaxin Guo</b>*, Zewen Chi*, Li Dong*, Qingxiu Dong, Xun Wu, Shaoh
 ---
 
 ### Research Internship (Feb. 2025 – May 2025), Microsoft Research Asia, Beijing  
-**Advisor:** Li Dong
+**Advisor:** Li Dong and Furu Wei
