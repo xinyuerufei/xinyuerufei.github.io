@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Jiaxin Guo**(郭佳鑫), a senior undergraduate student at Tsinghua University, China, planning to apply for a **Ph.D. program in Fall 2026**. Currently, I am a research intern at Microsoft Research Asia (MSRA), mentored by Dr. [Li Dong](https://dong.li/). Previously, I was fortunate to be hosted by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) at Georgia Institute of Technology (GaTech), where I worked on adaptive knowledge distillation for speculative decoders.  
+My name is **Jiaxin Guo**(郭佳鑫), a research intern at Microsoft Research Asia (MSRA), mentored by Dr. [Li Dong](https://dong.li/). Previously, I was fortunate to be hosted by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) at Georgia Institute of Technology (GaTech), where I worked on adaptive knowledge distillation for speculative decoders.  
+
+I am seeking for a **Ph.D. position in Fall 2026**.
 
 ## Research Interest
 I like training models. My ultimate goal is to explore and push the upper limits of model capabilities, enabling them to gradually approach AGI.

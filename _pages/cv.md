@@ -13,7 +13,6 @@ For detailed CV, click [here]({{ "/files/CV-Jiaxin Guo1.pdf" | relative_url }})
 
 Education
 ======
-* Sep.2021 – Jun.2026 (expected): Tsinghua University, Beijing, China
 * Feb.2024 – Jul.2024: Swiss Federal Institute of Technology in Lausanne (EPFL), Lausanne, Switzerland
 
 Work experience
