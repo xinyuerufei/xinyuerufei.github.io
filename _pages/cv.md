@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-For detailed CV, click [here]({{ "/files/CV-Jiaxin Guo.pdf" | relative_url }})
+For detailed CV, click [here]({{ "/files/CV-Jiaxin Guo1.pdf" | relative_url }})
 
 
 Education
@@ -20,7 +20,6 @@ Work experience
 ======
 * Oct.2024 – Present: Research Intern, MSRA, Beijing, mentored by [Li Dong](https://dong.li/)
 * Jul.2024 – Feb.2025: Research Intern, H. Milton Stewart School of Industrial and Systems Engineering, Gatech, mentored by [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
-* Jun.2022 – Feb.2024: Research Assistant, Center for Brain Inspired Computing Research, Tsinghua University
 
 
 Publications
