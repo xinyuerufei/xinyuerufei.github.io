@@ -26,9 +26,9 @@ author:
   avatar           : "photo.png"
   name             : "Jiaxin Guo"
   pronouns         : # example: "she/her"  
-  bio              : "researcher on Large Language Models and foundation models."
+  bio              : "Researcher on Large Language Models and foundation models."
   location         : "Beijing, China"
-  employer         : "MSRA"
+  employer         : "Tsinghua University"
   uri              : # URL
   email            : "xinyuerufei@gmail.com" 
 
@@ -279,14 +279,14 @@ defaults:
      # author_profile: true
      # share: true
      # comment: true
-  _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: single
-      author_profile: true
-      share: true
+  # _talks
+  #- scope:
+    #  path: ""
+    #  type: talks
+    #values:
+     # layout: talk
+      #author_profile: true
+      #share: true
 
 
 # Sass/SCSS
