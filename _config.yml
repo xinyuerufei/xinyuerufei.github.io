@@ -26,9 +26,9 @@ author:
   avatar           : "photo.png"
   name             : "Jiaxin Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher on Large Language Models and foundation models."
-  location         : "Beijing, China"
-  employer         : "Tsinghua University"
+  bio              : "Researcher on Large Language Models."
+  location         : "Shanghai, China"
+  #employer         : 
   uri              : # URL
   email            : "xinyuerufei@gmail.com" 
 
