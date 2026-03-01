@@ -27,8 +27,7 @@ author:
   name             : "Jiaxin Guo"
   pronouns         : # example: "she/her"  
   bio              : "Researcher on Large Language Models."
-  location         : "Shanghai, China"
-  #employer         : 
+  location         : "Shanghai, China" 
   uri              : # URL
   email            : "xinyuerufei@gmail.com" 
 
