@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* Oct.2024 – Present: Research Intern, MSRA, Beijing, mentored by [Li Dong](https://dong.li/) and [Furu Wei](https://scholar.google.com/citations?user=G-V1VpwAAAAJ&hl=zh-CN)
+* Mar.2026 - Present: Researcher, 
+* Oct.2024 – Feb.2026: Research Intern, MSRA, Beijing, mentored by [Li Dong](https://dong.li/) and [Furu Wei](https://scholar.google.com/citations?user=G-V1VpwAAAAJ&hl=zh-CN)
 * Jul.2024 – Feb.2025: Research Intern, H. Milton Stewart School of Industrial and Systems Engineering, Gatech, mentored by [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/)
 
 
