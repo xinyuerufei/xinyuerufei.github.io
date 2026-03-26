@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Previously, I was a research intern at Microsoft Research Asia (MSRA), mentored by Dr. [Li Dong](https://dong.li/) and Dr. [Furu Wei](https://scholar.google.com/citations?user=G-V1VpwAAAAJ&hl=zh-CN), where I worked on reward reasoning models. I was also fortunate to be hosted by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) at Georgia Institute of Technology (GaTech), where I worked on adaptive knowledge distillation for speculative decoders.  
+I work as a researcher at [UniPat AI](https://unipat.ai/). Previously, I was a research intern at Microsoft Research Asia (MSRA), mentored by Dr. [Li Dong](https://dong.li/) and Dr. [Furu Wei](https://scholar.google.com/citations?user=G-V1VpwAAAAJ&hl=zh-CN), where I worked on reward reasoning models. I was also fortunate to be hosted by Prof. [Tuo Zhao](https://www2.isye.gatech.edu/~tzhao80/) at Georgia Institute of Technology (GaTech), where I worked on adaptive knowledge distillation for speculative decoders.  
 
 ## Interest
 I like training models and building agents. My ultimate goal is to explore and push the upper limits of model capabilities, enabling them to take over human.
